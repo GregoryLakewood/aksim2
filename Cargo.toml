@@ -1,6 +1,6 @@
 [package]
 authors = ["Grabowski Łukasz <p2042@PCOSA.AD>"]
-name = "rust-aksim2"
+name = "aksim2"
 edition = "2021"
 version = "0.1.0"
 
